@@ -1,0 +1,49 @@
+_repo: Dona-Perfecta_69089
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+    wikipedia: https://fr.wikipedia.org/wiki/Albert_Savine
+  translator:
+    agent_name: Lugol, Julien
+    gutenberg_agent_id: '55097'
+    url: http://www.gutenberg.org/2009/agents/55097
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    - Galdós, Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+description: ''
+gutenberg_issued: '2022-10-03'
+identifiers:
+  gutenberg: '69089'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k318322d/f11.double
+pgterms:marc905: 20210928083338galds
+pgterms:marc906: '1886'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :E. Giraud et Cie,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Doña Perfecta
+url: http://www.gutenberg.org/ebooks/69089
