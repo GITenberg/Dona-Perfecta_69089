@@ -13,6 +13,9 @@ contributor:
     agent_name: Lugol, Julien
     gutenberg_agent_id: '55097'
     url: http://www.gutenberg.org/2009/agents/55097
+covers:
+- cover_type: archival
+  image_path: 69089-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
     - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69089#Dona-Perfecta
 gutenberg_issued: '2022-10-03'
 identifiers:
   gutenberg: '69089'
